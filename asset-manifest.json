@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pexels-react/static/css/main.346cd2dd.css",
+    "main.js": "/pexels-react/static/js/main.916bf4a8.js",
+    "index.html": "/pexels-react/index.html",
+    "main.346cd2dd.css.map": "/pexels-react/static/css/main.346cd2dd.css.map",
+    "main.916bf4a8.js.map": "/pexels-react/static/js/main.916bf4a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.346cd2dd.css",
+    "static/js/main.916bf4a8.js"
+  ]
+}
